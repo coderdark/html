@@ -8,6 +8,7 @@ The semantic elements in html are the following:  `<header>, <nav>, <main>, <art
 + https://www.youtube.com/watch?v=bOUhq46fd5g
 
 ## Usage
+**Note:** `<article>` and `<section>` can be used interchangeably. The `<article>` html tag represents a standalone piece of content. The `<section>` html tag representssections of a web page that are thematically the same. 
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
